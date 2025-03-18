@@ -1,10 +1,10 @@
 # GIT.demo
-# 🌟 Project Name - xyz
+#  Project Name - xyz
 
-## 📌 Description
+# Description
 A brief overview of the project and what it does.
 
-## 🎨 Demo Preview (HTML & CSS)
+# Demo Preview (HTML & CSS)
 Here is a simple **HTML & CSS** snippet from the project:
 
 ```html
